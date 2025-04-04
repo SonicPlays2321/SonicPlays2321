@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SonicPlays2321
 - 👀 I’m interested in Coding / Playing
-- 🌱 I’m currently learning C# C++
+- 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate with Anyone!
 - 📫 How to reach me Email: sonicplays2321official@gmail.com
 - 😄 Pronouns:  He / Him
